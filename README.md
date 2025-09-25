@@ -6,7 +6,10 @@ This repository serves as a tag extractor for posts on pr0gramm.com.
 
 1. Clone this repository.
 2. Install dependencies: `pip install -r requirements.txt`.
-3. Run `python pr0_tagstractor.py START_POST_NUMBER END_POST_NUMBER` to start teh script.
+3. Run `python pr0_tagstractor.py START_POST_NUMBER END_POST_NUMBER` to start the script.
+
+At this point it only scans SFW posts. 
+If requested maybe authorization could be added to scan also other categories.
 
 ## Contributing
 
